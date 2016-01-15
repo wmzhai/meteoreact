@@ -1,4 +1,4 @@
-##Meteor 1.3 React Demo
+## Getting Started with Meteor 1.3 and React
 
 具体内容参考Arunoda的[Getting Started with Meteor 1.3 and React](https://voice.kadira.io/getting-started-with-meteor-1-3-and-react-15e071e41cd1#.3eh6hnjog)。
 
