@@ -17,8 +17,8 @@ meteor
 ### Meteor项目创建
 
 ```bash
-meteor create —-release 1.3-modules-beta.4 myapp
-cd myapp
+meteor create --release 1.3-modules-beta.4 meteoreact
+cd meteoreact
 rm -rf *
 ```
 
