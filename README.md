@@ -1,7 +1,18 @@
-## Meteor 1.3 React Demo
+##Meteor 1.3 React Demo
 
 具体内容参考Arunoda的[Getting Started with Meteor 1.3 and React](https://voice.kadira.io/getting-started-with-meteor-1-3-and-react-15e071e41cd1#.3eh6hnjog)。
 
+
+## 直接运行
+
+```
+git clone https://github.com/wmzhai/meteoreact.git
+cd meteoreact
+npm install
+meteor
+```
+
+## 逐步创建
 
 ### Meteor项目创建
 
